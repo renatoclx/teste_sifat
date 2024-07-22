@@ -14,6 +14,9 @@ O projeto está configurado para rodar na porta 8088, tendo como o update das ta
 # Docker
 Tendo o docker configurado na estação, realize o commando "docker compose" dentro do projeto, para que o container seja criado juntamente com a imagem e a configuração padrão da base de dados (as configurações do container estão dentro do arquivo docer-compose.yml)
 
+# SQL
+Os inserts de testes estão na raiz do projeto, na pasta sql, nomeado como "teste_sifat.sql
+
 # Considerações
 O projeto foi criado utilizando o Spring Initializr, com Java 17, Maven e Spring Boot 3.3.2;
 
